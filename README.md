@@ -11,11 +11,11 @@ Welcome to GoGo Networks
 
 
 ======
-#### What Can We Do? Why would I upgrade my hardware?
+#### What Can GoGo networking do for you? Why would I upgrade my hardware?
  
- -Stop paying monthy for network hardware! Pay once and Done! Most save over $160 a Year!
+ - Stop paying monthy for network hardware! Pay once and Done! Most save over $160 a Year!
  - Boost your Download and Upload speeds.
- -Get Rid of those annoying dead zones inside or even outside.
- -Lower Ping which helps with responsivness/lag when online.
- -Get the most speed out of you wireless and wired devices
- -Greater Security for your network and all the devices on your network.
+ - Get Rid of those annoying dead zones inside or even outside.
+ - Lower Ping which helps with responsivness/lag when online.
+ - Get the most speed out of you wireless and wired devices
+ - Greater Security for your network and all the devices on your network.
