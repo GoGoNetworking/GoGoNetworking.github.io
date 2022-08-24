@@ -1,4 +1,4 @@
-Welcome to GoGo Networks
+Welcome, lets give your network more GoGo!                
 ======
 
 ### Our Mission
@@ -10,8 +10,8 @@ Welcome to GoGo Networks
 
 
 
-======
-#### What Can GoGo networking do for you? Why would I upgrade my hardware?
+
+#### What Can GoGo Networking do for you? Why would I upgrade my hardware?
  
  - Stop paying monthy for network hardware! Pay once and Done! Most save over $160 a Year!
  - Boost your Download and Upload speeds.
