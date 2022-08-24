@@ -18,4 +18,4 @@ Welcome to GoGo Networks
  -Get Rid of those annoying dead zones inside or even outside.
  -Lower Ping which helps with responsivness/lag when online.
  -Get the most speed out of you wireless and wired devices
- -Greater security for your network and all the devices on your network.
+ -Greater Security for your network and all the devices on your network.
